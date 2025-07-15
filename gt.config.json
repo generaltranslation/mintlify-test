@@ -1,0 +1,9 @@
+{
+  "defaultLocale": "en",
+  "locales": ["en", "es"],
+  "files": {
+    "mdx": {
+      "include": ["[locale]/**/*.mdx"]
+    }
+  }
+}
